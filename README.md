@@ -1,1 +1,1 @@
-# react-native-startup
+# react-native-starter
